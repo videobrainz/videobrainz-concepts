@@ -1,0 +1,3 @@
+# VideoBrainz Use Cases Topic
+
+Collection of Use Cases for the VideoBrainz project.  The structure here is a simple one: a collection of MarkDown files, each containing one use case.  The presence of a use case doesn't imply that it has been approved.  All it means is that it's an idea that we should discuss.  Eventually, as the use cases are refined and agreed upon; those use cases that are approved will be listed in this file.
